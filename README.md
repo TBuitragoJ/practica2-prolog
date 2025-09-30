@@ -132,17 +132,20 @@ practica2-prolog/
   Verifica estar en el directorio correcto y que el archivo `practica2.pl` existe.
 ---
 
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
-
----
-
 ## 👨‍💻 Autores
 
 - **Tomás Buitrago** - [TBuitragoJ](https://github.com/TBuitragoJ)
-- **[Nombre del compañero]**
+
+**Emmanuel Cardona** - [EmmanuelCard](https://github.com/EmmanuelCard)
 
 ---
+
+## 🎬 Video demostrativo
+
+Puedes ver una demostración del sistema aquí: ()
+
+
+---
+
 
 ¿Te resultó útil este proyecto? ¡Dale una ⭐ en GitHub!
