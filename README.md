@@ -130,11 +130,6 @@ practica2-prolog/
 
 - **No carga el archivo:**  
   Verifica estar en el directorio correcto y que el archivo `practica2.pl` existe.
-
----
-
-
-
 ---
 
 ## 📄 Licencia
