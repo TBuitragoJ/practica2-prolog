@@ -136,13 +136,13 @@ practica2-prolog/
 
 - **Tomás Buitrago** - [TBuitragoJ](https://github.com/TBuitragoJ)
 
-**Emmanuel Cardona** - [EmmanuelCard](https://github.com/EmmanuelCard)
+- **Emmanuel Cardona** - [EmmanuelCard](https://github.com/EmmanuelCard)
 
 ---
 
 ## 🎬 Video demostrativo
 
-Puedes ver una demostración del sistema aquí: ()
+Puedes ver una demostración del sistema aquí: (https://www.youtube.com/watch?v=pIygLEiaI5o)
 
 
 ---
