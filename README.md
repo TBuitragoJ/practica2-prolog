@@ -133,13 +133,7 @@ practica2-prolog/
 
 ---
 
-## 👥 Contribuir
 
-1. Haz fork del repositorio.
-2. Crea una rama para tus cambios (`git checkout -b feature/nueva-funcionalidad`).
-3. Haz commit de tus cambios (`git commit -am 'Agrega nueva funcionalidad'`).
-4. Haz push a tu rama (`git push origin feature/nueva-funcionalidad`).
-5. Abre un Pull Request.
 
 ---
 
