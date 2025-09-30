@@ -7,9 +7,7 @@ Un sistema completo para la gestión y consulta de un catálogo de vehículos, i
 ## 🤖 Notas de desarrollo y herramientas utilizadas
 
 - El desarrollo del código fuente se realizó en **SWI-Prolog**.
-- El README fue inspirado en el formato de la [Práctica 1 (Haskell)](https://github.com/TBuitragoJ/Practica1_biblioteca).
-- Se promueve la retroalimentación y colaboración estudiantil.
-
+-  Se utilizó **Claude** (IA) para asistir en la subida del código al repositorio y en la creación de este README.
 ---
 
 ## 🚀 Características
