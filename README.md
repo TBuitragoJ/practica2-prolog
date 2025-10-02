@@ -142,7 +142,7 @@ practica2-prolog/
 
 ## 🎬 Video demostrativo
 
-Puedes ver una demostración del sistema aquí: (https://www.youtube.com/watch?v=pIygLEiaI5o)
+Puedes ver una demostración del sistema aquí: ()
 
 
 ---
